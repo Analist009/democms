@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: בית
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
